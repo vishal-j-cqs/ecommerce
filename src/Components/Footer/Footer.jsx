@@ -31,7 +31,7 @@ const Footer = () => {
  </div>
  <div className="footer-copyright">
     <hr />
-Copyright @2024 all the reserved.
+Copyright @2024 all the reserved by Vishal Jangra.
  </div>
  </div>
   )
