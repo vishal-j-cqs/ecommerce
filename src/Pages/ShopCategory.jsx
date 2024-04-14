@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-import React from 'react'
-import './CSS/ShopCategory.css'
-const ShopCategory = () => {
-  return (
-    <div className="shop-category"></div>
-=======
+
 import React, { useContext } from 'react'
 import './CSS/ShopCategory.css'
 import { ShopContext } from '../Context/ShopContext'
@@ -34,7 +28,6 @@ const ShopCategory = (props) => {
   })}
 </div>
     </div>
->>>>>>> 61f0f85e0fec257f188ffd8f4d48a84d30e56c22
   )
 }
 
